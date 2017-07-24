@@ -1,0 +1,40 @@
+#Wrapper {
+    width: 970;
+    background: #1F3037;
+}
+
+header {
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    height: 50px;
+}
+
+.logo {
+    display: inline-block;
+    width: 40px;
+    margin-left: 560;
+}
+
+#navbar {
+    width: 970;
+    background: #31424A;
+    font-size: 19px;
+    color: white;
+}
+
+.content {
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+    padding: 10px;
+}
+
+.tree {
+    width: 970px;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+    height: 85px;
+}
